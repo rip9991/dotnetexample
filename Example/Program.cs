@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace dotnetexample
+namespace Example
 {
     class Program
     {

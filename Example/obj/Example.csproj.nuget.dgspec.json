@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/private/tmp/dotnetexample/dotnetexample.csproj": {}
+    "/Users/mpost/dotnetexample/Example/Example.csproj": {}
   },
   "projects": {
-    "/private/tmp/dotnetexample/dotnetexample.csproj": {
+    "/Users/mpost/dotnetexample/Example/Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/private/tmp/dotnetexample/dotnetexample.csproj",
-        "projectName": "dotnetexample",
-        "projectPath": "/private/tmp/dotnetexample/dotnetexample.csproj",
+        "projectUniqueName": "/Users/mpost/dotnetexample/Example/Example.csproj",
+        "projectName": "Example",
+        "projectPath": "/Users/mpost/dotnetexample/Example/Example.csproj",
         "packagesPath": "/Users/mpost/.nuget/packages/",
-        "outputPath": "/private/tmp/dotnetexample/obj/",
+        "outputPath": "/Users/mpost/dotnetexample/Example/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
