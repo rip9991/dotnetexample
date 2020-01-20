@@ -1,0 +1,11 @@
+/Users/mpost/dotnetexample/Example/bin/Debug/netcoreapp3.1/Example
+/Users/mpost/dotnetexample/Example/bin/Debug/netcoreapp3.1/Example.deps.json
+/Users/mpost/dotnetexample/Example/bin/Debug/netcoreapp3.1/Example.runtimeconfig.json
+/Users/mpost/dotnetexample/Example/bin/Debug/netcoreapp3.1/Example.runtimeconfig.dev.json
+/Users/mpost/dotnetexample/Example/bin/Debug/netcoreapp3.1/Example.dll
+/Users/mpost/dotnetexample/Example/bin/Debug/netcoreapp3.1/Example.pdb
+/Users/mpost/dotnetexample/Example/obj/Debug/netcoreapp3.1/Example.csprojAssemblyReference.cache
+/Users/mpost/dotnetexample/Example/obj/Debug/netcoreapp3.1/Example.AssemblyInfoInputs.cache
+/Users/mpost/dotnetexample/Example/obj/Debug/netcoreapp3.1/Example.AssemblyInfo.cs
+/Users/mpost/dotnetexample/Example/obj/Debug/netcoreapp3.1/Example.dll
+/Users/mpost/dotnetexample/Example/obj/Debug/netcoreapp3.1/Example.pdb
